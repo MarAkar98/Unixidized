@@ -6,5 +6,5 @@
 | ------------- | ------------- | -------- | -------- |
 | 1 |     Admin       | [Alexios Kantartzis](https://github.com/AlxiKan)  | P2016072 |
 | 2 |     Member       | [Dimitris Fragkoulis](https://github.com/difrag)  | P2015191 |
-| 3 |     Member       | [Eleftherios Andriotis](https://github.com/lefterisan)  | P20XXXXX |
+| 3 |     Member       | [Eleftherios Andriotis](https://github.com/lefterisan)  | P2020068 |
 
