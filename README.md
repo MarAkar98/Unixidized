@@ -1,4 +1,6 @@
-# Welcome to [Unixidized](https://github.com/Unixidized)
+# Welcome to [Unixidized](https://github.com/Unixidized) 
+
+<img src="icon.png" alt="icon" width="300"/>
 
 ## Our Team:
 
