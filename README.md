@@ -11,6 +11,7 @@
 | 3 |     Member       | [Eleftherios Andriotis](https://github.com/lefterisan)  | P2020068 |
 | 4 |     Member       | [Fanis Georgitsopoulos](https://github.com/Fanis-Georg)  | P2018004 |
 | 5 |     Member       | [Marina Akarepi](https://github.com/MarAkar98)  | P2016042 |
+| 6 |     Member       | [Eleftherios Chatziioakim](https://github.com/lefterisss)  | P2013086 |
 
 ---
 
