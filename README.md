@@ -13,6 +13,8 @@
 | 5 |     Member       | [Marina Akarepi](https://github.com/MarAkar98)  | P2016042 |
 | 6 |     Member       | [Eleftherios Chatziioakim](https://github.com/lefterisss)  | P2013086 |
 | 7 |     Member       | [Ilias Kyriazis](https://github.com/p16kyri)  | P2016013 |
+| 8 |     Member       | [Apostolis Lazaris](https://github.com/ApoLaz)  | P2016059 |
+
 
 ---
 
